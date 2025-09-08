@@ -1,4 +1,4 @@
-## 👋 Hola, soy Servando  
+## Hola, soy Servando  
 
 ## 🚀 Sobre mi
 
