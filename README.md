@@ -1,5 +1,5 @@
 ## Hola, Soy Servando De La Cruz 👋
-
+Licenciado en Informática con interés en la programación, inteligencia de negocios y la tecnología, buscando constantemente mejorar mis habilidades
 <!--
 **ServandoDeLaCruz/ServandoDeLaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
